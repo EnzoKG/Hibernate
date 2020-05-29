@@ -14,7 +14,7 @@ public class Main {
 		
 		Cadastro pessoa3 = new Cadastro();
 		pessoa3.setNome("Plinio Joaquim Calonga Dias Alem Kozoroski Giovanini");
-		pessoa3.setData_nascimento("14/08/2002");
+		pessoa3.setData_nascimento("18/06/2019");
 		
 		CadastroController cc = new CadastroController();
 		//cc.save(pessoa1);
